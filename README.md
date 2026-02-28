@@ -97,7 +97,9 @@ Deploy dashboard to Power BI Service for real-time updates.
 
 output:
 
-![Uploading image.png…]()
+![WhatsApp Image 2026-02-28 at 5 24 05 PM](https://github.com/user-attachments/assets/ea90ea5b-2054-4db1-9a5b-98aae066bc7c)
+
+
 
 
 Create role-based access for secure sharing across departments.
